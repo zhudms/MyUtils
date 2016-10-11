@@ -28,4 +28,11 @@ public class LogUtil {
         }
 
     }
+
+    public static void i(String TAG, String message) {
+        if (VALUES.IS_DUBUGING) {
+            Log.i(TAG, message);
+        }
+
+    }
 }

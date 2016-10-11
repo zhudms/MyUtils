@@ -1,4 +1,4 @@
-package com.utils.zl.myutils.utils;
+package com.utils.zl.libs.utils;
 
 import android.content.Context;
 import android.net.wifi.WifiInfo;
@@ -6,7 +6,7 @@ import android.net.wifi.WifiManager;
 import android.text.TextUtils;
 import android.util.Log;
 
-import com.utils.zl.myutils.R;
+import com.utils.zl.libs.R;
 
 
 /**

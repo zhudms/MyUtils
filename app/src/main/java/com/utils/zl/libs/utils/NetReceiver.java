@@ -1,4 +1,4 @@
-package com.utils.zl.myutils.utils;
+package com.utils.zl.libs.utils;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;

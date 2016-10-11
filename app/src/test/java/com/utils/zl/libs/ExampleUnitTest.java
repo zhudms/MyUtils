@@ -1,4 +1,4 @@
-package com.utils.zl.myutils;
+package com.utils.zl.libs;
 
 import org.junit.Test;
 

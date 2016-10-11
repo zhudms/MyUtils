@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyUtils</string>
+    <string name="get_macid_error">获取Mac地址失败</string>
+</resources>

@@ -11,6 +11,7 @@ public class VALUES {
 
 
     public static final boolean IS_DUBUGING=true;
+    public static final String SD_PATH = "/zxyl/patient";
 
     public static String TAG_FILTER = "asd";
 

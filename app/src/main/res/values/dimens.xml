@@ -2,4 +2,69 @@
     <!-- Default screen margins, per the Android Design guidelines. -->
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!--common-->
+    <dimen name="text_mini">10sp</dimen>
+    <dimen name="text_small">13sp</dimen>
+    <dimen name="text_normal">18sp</dimen>
+    <dimen name="text_middle">15sp</dimen>
+    <dimen name="text_button">15sp</dimen>
+    <dimen name="text_32">16sp</dimen>
+    <dimen name="text_30">15sp</dimen>
+    <!--<dimen name="text_bar">17sp</dimen>-->
+
+    <dimen name="rectagle_radio_size">5dp</dimen>
+    <dimen name="max_radio_size">2048dp</dimen>
+    <dimen name="arrow_size">16dp</dimen>
+    <dimen name="min_size">1px</dimen>
+    <dimen name="divider_size">1dp</dimen>
+
+    <dimen name="app_pagepadding">15dp</dimen>
+
+    <!--dialog-->
+    <dimen name="dialog_with">275dp</dimen>
+    <dimen name="dialog_hight">175dp</dimen>
+    <dimen name="dialog_textsize">15sp</dimen>
+    <dimen name="dialog_padding">20dp</dimen>
+    <dimen name="dialog_text_margin">30dp</dimen>
+    <dimen name="dialog_button_hight">45dp</dimen>
+
+    <!--action_bar-->
+    <dimen name="actionbar_hight">48dp</dimen>
+    <dimen name="actionbar_iconhight">48dp</dimen>
+    <dimen name="actionbar_titlesize">19dp</dimen>
+    <dimen name="actionbar_titleleft">15dp</dimen>
+    <dimen name="actionbar_leftpadding">10dp</dimen>
+    <dimen name="actionbar_lefticon_margin">6dp</dimen>
+    <dimen name="actionbar_right_margin">15dp</dimen>
+
+    <dimen name="actionbar_search_height">27dp</dimen>
+    <dimen name="actionbar_search_paddingleft">5dp</dimen>
+
+    <!--searchbar-->
+    <dimen name="searchbar_leftpadding">15dp</dimen>
+    <dimen name="searchbar_toppadding">10dp</dimen>
+    <dimen name="searchbar_textpadding">7dp</dimen>
+    <dimen name="searchbar_searchheight">27dp</dimen>
+    <dimen name="searchbar_searchpaddingleft">5dp</dimen>
+    <dimen name="search_item_padding">15dp</dimen>
+    <dimen name="search_title_height">45dp</dimen>
+    <dimen name="search_item_height">85dp</dimen>
+    <dimen name="search_item_margin">10dp</dimen>
+    <dimen name="search_text_paddingleft">5dp</dimen>
+    <dimen name="search_more_height">55dp</dimen>
+
+
+    <!--login-->
+    <dimen name="login_paddingtop">55dp</dimen>
+    <dimen name="login_paddingleft">30dp</dimen>
+    <dimen name="login_editheight">47dp</dimen>
+    <dimen name="login_password_margin">22dp</dimen>
+    <dimen name="login_rember_margin">10dp</dimen>
+    <dimen name="login_button_margin">28dp</dimen>
+
+    <!--page_tab-->
+    <dimen name="page_tab_normaltitlesize">15dp</dimen>
+    <dimen name="page_tab_selecttitlesize">15dp</dimen>
+    <dimen name="page_tab_height">45dp</dimen>
 </resources>

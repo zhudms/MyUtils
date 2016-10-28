@@ -3,4 +3,87 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+    <!--app-->
+    <color name="app_back_gray">#eaeaea</color>
+    <color name="app_white">#FFFFFF</color>
+
+    <!--<color name="app_blue">#0185fc</color>-->
+    <color name="app_btn_onclick">#0097a7</color>
+    <color name="app_btn_unable">#b7b7b7</color>
+    <!--<color name="app_blue_tv">#1E90ff</color>-->
+    <!--<color name="app_gray_tv">#F0F0F0</color>-->
+    <color name="app_divider_color">#F0F0F0</color>
+    <color name="app_line_gray">#c9c9c9</color>
+    <color name="app_line_lightgray">#f0f0f0</color>
+    <color name="app_text_red">#e50211</color>
+    <color name="app_button_gray">#e2e2e2</color>
+
+    <!--<color name="app_text_black">#333333</color>-->
+    <!--<color name="app_text_gray">#666666</color>-->
+    <!--<color name="app_text_lightgray">#b7b7b7</color>-->
+
+
+    <color name="text_black">#333333</color>
+    <color name="text_gray">#666666</color>
+    <color name="text_lightgray">#b7b7b7</color>
+    <color name="message_text_unable">#c8c8c8</color>
+    <color name="color_f5">#F5F5F5</color>
+    <!--&lt;!&ndash;patients_message&ndash;&gt;-->
+    <!--<color name="text_black">#333333</color>-->
+    <!--<color name="text_gray">#8c8c8c</color>-->
+    <!--<color name="text_lightray">#F0F0F0</color>-->
+
+    <!--actionbar-->
+    <color name="actionbar_color">#00bcD5</color>
+
+    <!--board-->
+    <color name="board_yellow">#FFFF00</color>
+
+    <!--flip-->
+    <color name="flip_on_selected">#767787</color>
+    <color name="flip_indicator_text">@color/actionbar_color</color>
+
+    <!--login-->
+    <color name="login_hint">#cce4e9</color>
+    <color name="login_button">#00bcd5</color>
+    <color name="login_button_pressed">#009fb3</color>
+
+    <!--tab-->
+    <color name="home_tab_narmalcolor">#767787</color>
+    <color name="home_tab_onselectcolor">@color/actionbar_color</color>
+
+    <!--home_patients-->
+    <color name="patient_tend_special">#dd2120</color>
+    <color name="patient_tend_two">#f15d53</color>
+    <color name="patient_tend_three">#f2a553</color>
+    <color name="patient_tend_four">#eede57</color>
+    <color name="patient_tend_unknown">#d5d3d4</color>
+
+
+    <!--password-->
+    <color name="password_hint">#d4d4d4</color>
+
+    <!--swep-->
+    <color name="swep_red">#ee2818</color>
+    <color name="swep_orange">#f4980a</color>
+
+    <!--search-->
+    <color name="search_tag_textcolor">#3493ea</color>
+    <color name="color_ee">#EEEEEE</color>
+    <color name="color_6e">#6e6e6e</color>
+    <color name="transparent">#00000000</color>
+    <color name="munue_color">#e73327</color>
+    <color name="white">#ffffff</color>
+    <color name="nodata_bac_text">#d2d1d1</color>
+    <color name="nodata_bac">#EBEBEB</color>
+    <color name="source_back_gray">#eaeaea</color>
+    <color name="onfocus_color">#ebfbfd</color>
+    <color name="alp_zero">#00FFFFFF</color>
+    <color name="source_moudle_childback">#f3f1f2</color>
+    <color name="source_moudle_tipbackcolor">#e5e3e4</color>
+    <color name="green">#FF18EE63</color>
+    <color name="yellow">#FFEEE718</color>
+    <color name="blue">#FF181FEE</color>
+    <color name="null_color">#00000000</color>
 </resources>

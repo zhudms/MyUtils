@@ -20,7 +20,7 @@ public class VALUES {
 
     public final static String LINKER = "-";
     public final static String HOUR_LINKER = ":";
-
+    public static final String DATA_FORMATER = "%02d";
     public final static String STRING_YEAR = "年";
     public final static String STRING_MONTH = "月";
     public final static String STRING_DAY = "日";
